@@ -1,5 +1,5 @@
 {
-  "name": "tutorial",
+  "name": "app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {},
@@ -23,5 +23,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "1. Birthday Reminder",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jm0969/react-advanced-2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jm0969/react-advanced-2020/issues"
+  },
+  "homepage": "https://github.com/jm0969/react-advanced-2020#readme"
 }
